@@ -2,8 +2,7 @@
 ## Question: 
 You are given three Excel tables: 
 
-<br>
-**1. Sales (OrderID, OrderDate, ProductID, Quantity, SalesAmount)**
+<br>**1. Sales (OrderID, OrderDate, ProductID, Quantity, SalesAmount)**
 
 **2. Products (ProductID, ProductName, Category)** 
 
