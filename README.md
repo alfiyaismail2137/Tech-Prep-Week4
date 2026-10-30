@@ -25,7 +25,9 @@ Management asks for an interactive dashboard that shows:
 ● **Leverage Excel AI features (Quick Analysis / AI analyst) to generate insights efficiently**
 <br>Excel’s built-in Quick Analysis tool used for instant visualizations and calculations. The AI features like Copilot in Excel can Analyze Data through natural language queries and automated pattern recognition.
 <br>**Excel's Quick Analysis Tool**
+      ---------------------------
    <br>  **Core Capabilities:**
+   
   <br> **Formatting:** Instantly apply data bars, color scales, or icon sets to spot top/bottom performers.
  <br>**Charts:** Hover over recommended charts to see live previews tailored to your data set.
  <br>**Totals:** Instantly calculate Running Totals, Sums, Averages, or % of Total across rows or columns without typing formulas.
@@ -62,6 +64,3 @@ For heavy data analysis, Excel allows users to run Python scripts directly throu
 
  * Fewer Formula Mistakes: AI-generated logic reduces manual errors in nested or multi-condition calculations.
  * Speed: Tasks that usually take hours—like monthly financial reporting or trend comparison—are completed in seconds.
-   
-●Justify why you choose specific functions, pivot features, and chart types in your 
-approach.
